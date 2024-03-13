@@ -15,8 +15,9 @@ Go to the project directory
 
 - Install dependencies
 
-bash ```
-  npm install ```
+```bash 
+  npm install
+```
 
 - Create environment file .env it should include your database url
 
@@ -26,5 +27,6 @@ MONGO_URI
 
 - All done now to start server run
 
-bash ```
-  nodemon app ```
+```bash 
+  nodemon app
+```
